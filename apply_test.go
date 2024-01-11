@@ -12,7 +12,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/RuishanTech/selfupdate/internal/binarydist"
+	"github.com/ruishantech/selfupdate/internal/binarydist"
 )
 
 var (

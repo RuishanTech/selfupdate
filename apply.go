@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/RuishanTech/selfupdate/internal/osext"
+	"github.com/ruishantech/selfupdate/internal/osext"
 )
 
 // Apply performs an update of the current executable or opts.TargetFile, with
